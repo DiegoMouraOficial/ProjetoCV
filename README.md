@@ -1,6 +1,6 @@
 <h1 align="center"> 📚 The Curriculum Project </h1>
 
-<p>This project was developed to study basic HTML and CSS.</p>
+<p align="center">This project was developed to study basic HTML and CSS.</p>
 
 <h3> HTML Basic</h3>
 <ul>
@@ -14,8 +14,7 @@
     <li>Text Formatting</li>
     <li>Comment </li>
     <li>Etc</li>
-</ul></br>
-
+</ul>
 <h3> CSS Basic</h3>
 <ul>
     <li>Syntax</li>
@@ -32,20 +31,17 @@
     <li>Icons</li>
     <li>Etc</li>
 </ul></br>
-
-</br>
-<h4> 🤝 Contributing </h4>
+<h3> 🤝 Contributing </h3>
 <p>
+This repository was created for study purposes. Feel free to contribute!
 
-    This repository was created for study purposes. Feel free to contribute!
+If I helped you in any way, I'd be happy to know. 😜
 
-    If I helped you in any way, I'd be happy to know. 😜
+If you know someone who identifies with this content, be sure to share.
 
-    If you know someone who identifies with this content, be sure to share.
-    
-</p></br>
+</p>
 
-> <h4>if possible:</h4>
+> <h3>if possible:</h3>
 
 - ⭐️ Give Star to the project
 - 🐛 Find and report issues
