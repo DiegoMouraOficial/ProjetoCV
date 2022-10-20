@@ -2,6 +2,7 @@ body{
     background: #dfdfdf;
     font-family: 'Nunito Sans', sans-serif;
     color: #222222;
+    margin: 0;
 }
 
 .container {
@@ -37,12 +38,30 @@ h2 {
     letter-spacing: -1px;
 }
 
+h4 {
+    margin-bottom: 5px;
+}
+
+h5 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 100;
+    font-style: italic;
+}
+
+
 p {
     line-height: 25px;
+    margin-top: 0;
 }
 
 .social-links{
     text-decoration: none;
+}
+
+.contact{
+    width: 20px;
+    margin-right:20px;
 }
 
 .social-icons{
@@ -51,4 +70,22 @@ p {
 
 .instagram{
     margin: 0 15px 0 15px;
+}
+
+.jobs-list{
+    list-style: none;
+    padding-left: 20px;
+}
+
+.formation{
+    list-style: none;
+    padding-left: 20px;
+}
+
+.footer{
+    margin-top: 40px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 10px 0;
 }
