@@ -39,7 +39,7 @@ If I helped you in any way, I'd be happy to know. 😜
 
 If you know someone who identifies with this content, be sure to share.
 
-</p>
+</p></br>
 
 > <h3>if possible:</h3>
 
