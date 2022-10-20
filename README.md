@@ -30,7 +30,7 @@
     <li>Fonts</li>
     <li>Icons</li>
     <li>Etc</li>
-</ul></br>
+</ul>
 <h3> 🤝 Contributing </h3>
 <p>
 This repository was created for study purposes. Feel free to contribute!
