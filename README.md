@@ -47,4 +47,4 @@ If you know someone who identifies with this content, be sure to share.
 - 🐛 Find and report issues
 </p>
 
-Provided 😜 by [Diego Moura dos Santos](https://www.linkedin.com/in/diegomouradossantos/).
+Developed 😜 by [Diego Moura dos Santos](https://www.linkedin.com/in/diegomouradossantos/).
