@@ -3,18 +3,10 @@
 <p align="center"> Atráves desse simples projeto você será capaz de entender os conceitos 
 básico do HTML e CSS.</p>
 
-<<<<<<< HEAD
-<figure>
-        <img src="curriculo.jpg"alt="Projeto Currículo">
-</figure>
-=======
-
 <figure>
     <img src="curriculo.jpg"alt="Projeto Currículo" height="1529" width="1140">
 </figure>
 
-
->>>>>>> 96d26c73a251b4f3cabf82558b0a40e48af6b798
 
 <h3> 🤝 Faça a sua Contribuição </h3>
 <p>
