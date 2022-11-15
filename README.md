@@ -5,10 +5,9 @@ básico do HTML e CSS.</p>
 
 <div style="text-align:center">
     <figure>
-        <img src="curriculo.jpg"alt="Projeto Currículo" height="815" width="620">
+        <img src="curriculo.jpg"alt="Projeto Currículo" height="1529" width="1140">
     </figure>
 </div>
-
 
 <h3> 🤝 Faça a sua Contribuição </h3>
 <p>
@@ -17,6 +16,7 @@ Este repositório foi criado para fins de estudo. Fique a vontade para contribui
 Se te ajudei de alguma forma, ficarei feliz em saber.😜
 
 Se você conhece alguém que se identifica com esse conteúdo, não deixe de compartilhar.
+
 </p></br>
 
 > <h3>Se possível</h3>
