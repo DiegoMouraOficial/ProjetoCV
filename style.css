@@ -12,7 +12,7 @@ body{
 
 .profile{
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 .foto-principal {
@@ -28,14 +28,20 @@ h1 {
     margin-bottom: 0;
     font-family: 'Nunito Sans', sans-serif;
     font-size: 30px;
+    color: #5E2129;
 }
 
 h2 {
     margin-top: 0;
     font-style: italic;
+    font-size: 18px;
     color: #494949;
-    font-weight: 100;
+    font-weight:100;
     letter-spacing: -1px;
+}
+
+h3 {
+    color: #5E2129;
 }
 
 h4 {
@@ -74,18 +80,18 @@ p {
 
 .jobs-list{
     list-style: none;
-    padding-left: 20px;
+    padding-left: 10px;
 }
 
 .formation{
     list-style: none;
-    padding-left: 20px;
+    padding-left: 10px;
 }
 
 .footer{
-    margin-top: 40px;
+    margin-top: 5px;
     background-color: black;
-    color:white;
+    color:#b9b5b5;
     text-align: center;
-    padding: 10px 0;
+    padding: 5px 0;
 }

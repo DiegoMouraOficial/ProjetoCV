@@ -1,44 +1,20 @@
-<h1 align="center"> 📚 The Curriculum Project </h1>
+<h1 align="center"> 📚 Projeto Currículo  </h1>
 
-<p align="center">This project was developed to study basic HTML and CSS.</p>
+<p align="center"> Atráves desse simples projeto você será capaz de entender os conceitos 
+básico do HTML e CSS.</p>
 
-<h3> HTML Basic</h3>
-<ul>
-    <li>The <!DOCTYPE> Declaration</li>
-    <li>HTML headings h1 to h6 </li>
-    <li>Paragraphs</li>
-    <li>Links</li>
-    <li>Images </li>
-    <li>Elements</li>
-    <li>Attributes </li>
-    <li>Text Formatting</li>
-    <li>Comment </li>
-    <li>Etc</li>
-</ul>
-<h3> CSS Basic</h3>
-<ul>
-    <li>Syntax</li>
-    <li>Selectors </li>
-    <li>Three Ways to Insert CSS</li>
-    <li>Colors</li>
-    <li>Backgrounds</li>
-    <li>Borders</li>
-    <li>Margins </li>
-    <li>Padding</li>
-    <li>Height and Width</li>
-    <li>Box Model</li>
-    <li>Fonts</li>
-    <li>Icons</li>
-    <li>Etc</li>
-</ul>
-<h3> 🤝 Contributing </h3>
+<figure>
+    <img src="curriculo.jpg"alt="Currículo">
+</figure>
+
+
+<h3> 🤝 Faça a sua Contribuição </h3>
 <p>
-This repository was created for study purposes. Feel free to contribute!
+Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
 
-If I helped you in any way, I'd be happy to know. 😜
+Se te ajudei de alguma forma, ficarei feliz em saber.😜
 
-If you know someone who identifies with this content, be sure to share.
-
+Se você conhece alguém que se identifica com esse conteúdo, não deixe de compartilhar.
 </p></br>
 
 > <h3>if possible:</h3>
@@ -47,4 +23,4 @@ If you know someone who identifies with this content, be sure to share.
 - 🐛 Find and report issues
 </p>
 
-Developed 😜 by [Diego Moura dos Santos](https://www.linkedin.com/in/diegomouradossantos/).
+Desenvolvido 😜 por [Diego Moura dos Santos](https://www.linkedin.com/in/diegomouradossantos/).
