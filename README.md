@@ -4,7 +4,7 @@
 básico do HTML e CSS.</p>
 
 <figure>
-    <img src="curriculo.jpg"alt="Currículo">
+    <img src="curriculo.jpg"alt="Currículo" height="815" width="620">
 </figure>
 
 
@@ -17,7 +17,7 @@ Se te ajudei de alguma forma, ficarei feliz em saber.😜
 Se você conhece alguém que se identifica com esse conteúdo, não deixe de compartilhar.
 </p></br>
 
-> <h3>if possible:</h3>
+> <h3>Se possível</h3>
 
 - ⭐️ Give Star to the project
 - 🐛 Find and report issues
