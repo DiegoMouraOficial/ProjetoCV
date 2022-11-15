@@ -4,7 +4,7 @@
 básico do HTML e CSS.</p>
 
 <figure>
-    <img src="curriculo.jpg"alt="Projeto Currículo" height="1529" width="1140">
+    <img src="curriculo.jpg"alt="Projeto Currículo">
 </figure>
 
 
