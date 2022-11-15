@@ -4,8 +4,8 @@
 básico do HTML e CSS.</p>
 
 
-<figure "align-items:center">
-    <img src="curriculo.jpg"alt="Projeto Currículo" height="815" width="620">
+<figure>
+    <img src="curriculo.jpg"alt="Projeto Currículo" height="815" width="620" align-items:"center">
 </figure>
 
 
