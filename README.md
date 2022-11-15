@@ -4,9 +4,9 @@
 básico do HTML e CSS.</p>
 
 <div style="text-align:center">
-    <figure>
+    <p>
         <img src="curriculo.jpg"alt="Projeto Currículo" height="815" width="620">
-    </figure>
+    </p>
 </div>
 
 
