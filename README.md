@@ -3,10 +3,10 @@
 <p align="center"> Atráves desse simples projeto você será capaz de entender os conceitos 
 básico do HTML e CSS.</p>
 
-<div style="text-align:center">
-    <p>
+<div style="align-items:center">
+    <figure>
         <img src="curriculo.jpg"alt="Projeto Currículo" height="815" width="620">
-    </p>
+    </figure>
 </div>
 
 
