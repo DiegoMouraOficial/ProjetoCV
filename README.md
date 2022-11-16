@@ -8,7 +8,7 @@ básico do HTML e CSS.</p>
 </figure>
 
 
-<h3> 🤝 Faça a sua Contribuição </h3>
+<h3> 🤝 Faça sua Contribuição </h3>
 <p>
 Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
 
@@ -20,8 +20,9 @@ Se você conhece alguém que se identifica com esse conteúdo, não deixe de com
 
 > <h3>Se possível</h3>
 
-- ⭐️ Give Star to the project
-- 🐛 Find and report issues
+<p>
+- ⭐️ Dê sua estrela ao projeto.
+- 🐛 Encontre e relate issues.
 </p>
 
 Desenvolvido 😜 por [Diego Moura dos Santos](https://www.linkedin.com/in/diegomouradossantos/).
