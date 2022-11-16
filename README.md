@@ -21,7 +21,9 @@ Se você conhece alguém que se identifica com esse conteúdo, não deixe de com
 > <h3>Se possível</h3>
 
 <p>
+
 - ⭐️ Dê sua estrela ao projeto.
+
 - 🐛 Encontre e relate issues.
 </p>
 
