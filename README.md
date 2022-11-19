@@ -3,9 +3,9 @@
 <p align="center"> Atráves desse simples projeto você será capaz de entender os conceitos 
 básico do HTML e CSS.</p>
 
-<figure>
+<p align="center">
     <img src="curriculo.jpg"alt="Projeto Currículo">
-</figure>
+</p>
 
 
 <h3> 🤝 Faça sua Contribuição </h3>
