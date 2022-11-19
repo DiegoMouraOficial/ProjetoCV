@@ -4,7 +4,7 @@
 básico do HTML e CSS.</p>
 
 <p align="center">
-    <img src="curriculo.jpg"alt="Projeto Currículo" width="1000" height="1000">
+    <img src="curriculo.jpg"alt="Projeto Currículo" width="850" height="1000">
 </p>
 
 
