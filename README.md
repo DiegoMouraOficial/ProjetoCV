@@ -11,7 +11,7 @@ básico do HTML e CSS.</p>
 ## :stuck_out_tongue_winking_eye: Qual foi o objetivo?
 <p> Treinar as principais tags e conceitos básicos do HTML</p>
 <ul>
-  <li>Estrutura básica HTML 5</li>
+  <li>Estrutura HTML 5.</li>
   <li>Principais tags HTML</li>
   <li>Principais conceitos HTML</li>
   <li>Indentação</li>
