@@ -19,6 +19,13 @@ básico do HTML e CSS.</p>
   <li>Formatação de texto.</li>
   <li>Imagens, Links e Listas.</li>
   <li>Entendendo index.</li>
+  <li>CSS Externo, Interno e Inline.</li>
+  <li>Estilizando tag, Class e ID.</li>
+  <li>Color e Background.</li>
+  <li>Border e Border Radius.</li>
+  <li>Margin e Padding.</li>
+  <li>Box Model e Box Shadow.</li>
+  <li>Div.</li>
 </ul>
 
 
