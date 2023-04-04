@@ -1,9 +1,8 @@
+<img align="center" src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=critical&style=for-the-badge"/>
+
 <h1 align="center"> 📚 Projeto Currículo</h1>
 
 </br>
-
-<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=critical&style=for-the-badge"/>
-Referência W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
 
 </br>
 
