@@ -3,6 +3,7 @@
 <h1>📚 Projeto Currículo</h1>
 
 <p align="justify">Este projeto consiste na criação de um currículo personalizado, utilizando as tecnologias HTML e CSS com a estrutura do HTML 5. A proposta é permitir que o usuário desenvolva seu próprio currículo de maneira personalizada, adequando-o às suas necessidades e aprofundando seus conhecimentos em HTML e CSS.</p>
+</br>
 
 <div align="center">
     <img src="curriculo.jpg"alt="Projeto Currículo" width="375" height="500">
