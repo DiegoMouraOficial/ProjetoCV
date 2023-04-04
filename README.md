@@ -6,7 +6,7 @@
 
 <h3>HTML5</h3>
 <p align="center">
-O projeto usa as principais tags HTML, como <html>, <head>, <body>, <h1> a <h6>, <p>, <img>, <a>, <ul>, <ol>, entre outras. Essas tags são usadas para definir a estrutura e o conteúdo da página.
+O projeto usa as principais tags HTML, como html, head, body, h1 a h6, p, img, a, ul, ol, entre outras. Essas tags são usadas para definir a estrutura e o conteúdo da página.
 
 Os principais conceitos do HTML que são usados no projeto incluem a estrutura do documento HTML, o uso de tags para definir o conteúdo e a formatação da página, e a importância da semântica do HTML para facilitar a acessibilidade e a indexação pelos mecanismos de busca.
     
