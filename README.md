@@ -10,7 +10,7 @@
 
 
 
-### :page_facing_up: HTML5
+## :page_facing_up: HTML5
 <p>
 O projeto usa as principais tags HTML, como html, head, body, h1 a h6, p, img, a, ul, ol, entre outras. Essas tags são usadas para definir a estrutura e o conteúdo da página.
 
@@ -21,34 +21,25 @@ A indentação é um aspecto importante do código HTML, pois ajuda a manter o c
 O projeto também inclui o uso de imagens, links e listas para criar uma página mais dinâmica e informativa. O arquivo index.html é utilizado como página inicial do currículo.
 </p>
     
-### :black_nib: CSS3
+## :black_nib: CSS3
 <p>
 O CSS é usado para estilizar a página, e o projeto utiliza os diferentes tipos de estilos do CSS, incluindo estilos externos, internos e inline. A estilização é aplicada a tags, classes e IDs, e inclui propriedades como cor, background, border, margin, padding, box model e box shadow. A tag <div> é usada para criar seções distintas da página, que podem ser estilizadas separadamente.
 </p>
 
-</br>
-
-## :stuck_out_tongue_winking_eye: Qual foi o objetivo?
-
-
-
 ## 🤝 Faça sua Contribuição 
 <p>
-Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
+Esse repositório foi criado com o objetivo de estudar e aprimorar os conhecimentos em HTML5 e CSS3. Gostaría de convidá-los (as) a contribuir para o projeto, afinal, juntos podemos criar algo ainda melhor!
 
-Se te ajudei de alguma forma, ficarei feliz em saber.😜
+Caso tenha encontrado algo que tenha sido útil para você, ficarei muito feliz em saber que o meu trabalho está sendo útil para outras pessoas. Compartilhe também com seus amigos e conhecidos que possam se interessar pelo conteúdo.
 
-Se você conhece alguém que se identifica com esse conteúdo, não deixe de compartilhar.
-
-</p></br>
+Agradeço por sua visita e espero que possamos continuar a evoluir juntos!
+</p>
 
 > ## Se possível
-
 <p>
-
-- ⭐️ Dê sua estrela ao projeto.
-
-- 🐛 Encontre e relate issues.
+- 🐛 Encontre e relate issues para que possamos corrigir eventuais bugs e melhorar a experiência do usuário.
+- ⭐️ Se gostou do trabalho, por favor, considere dar uma estrela ao projeto. 
+- 🤝 Sua contribuição é muito importante para mim ajudar a continuar evoluindo. Obrigado pela visita!"
 </p>
 
 Desenvolvido 😜 por [Diego Moura dos Santos](https://www.linkedin.com/in/diegomouradossantos/).
