@@ -1,4 +1,4 @@
-# 📚 Projeto Currículo
+<h1 align="center"> 📚 Projeto Currículo</h1>
 
 </br>
 
