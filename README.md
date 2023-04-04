@@ -8,8 +8,7 @@
     <img src="curriculo.jpg"alt="Projeto Currículo" width="375" height="500">
 </div>
 
-
-
+</br>
 ## :page_facing_up: HTML5
 <p>
 O projeto usa as principais tags HTML, como html, head, body, h1 a h6, p, img, a, ul, ol, entre outras. Essas tags são usadas para definir a estrutura e o conteúdo da página.
@@ -20,12 +19,14 @@ A indentação é um aspecto importante do código HTML, pois ajuda a manter o c
     
 O projeto também inclui o uso de imagens, links e listas para criar uma página mais dinâmica e informativa. O arquivo index.html é utilizado como página inicial do currículo.
 </p>
-    
+
+</br>    
 ## :black_nib: CSS3
 <p>
 O CSS é usado para estilizar a página, e o projeto utiliza os diferentes tipos de estilos do CSS, incluindo estilos externos, internos e inline. A estilização é aplicada a tags, classes e IDs, e inclui propriedades como cor, background, border, margin, padding, box model e box shadow. A tag <div> é usada para criar seções distintas da página, que podem ser estilizadas separadamente.
 </p>
 
+</br>
 ## 🤝 Faça sua Contribuição 
 <p>
 Esse repositório foi criado com o objetivo de estudar e aprimorar os conhecimentos em HTML5 e CSS3. Gostaría de convidá-los (as) a contribuir para o projeto, afinal, juntos podemos criar algo ainda melhor!
@@ -37,9 +38,10 @@ Agradeço por sua visita e espero que possamos continuar a evoluir juntos!
 
 > ## Se possível
 <p>
-- 🐛 Encontre e relate issues para que possamos corrigir eventuais bugs e melhorar a experiência do usuário.
-- ⭐️ Se gostou do trabalho, por favor, considere dar uma estrela ao projeto. 
+- 🐛 Encontre e relate issues para que possamos corrigir eventuais bugs e melhorar a experiência do usuário.</br>
+- ⭐️ Se gostou do trabalho, por favor, considere dar uma estrela ao projeto.</br> 
 - 🤝 Sua contribuição é muito importante para mim ajudar a continuar evoluindo. Obrigado pela visita!"
 </p>
 
+</br>
 Desenvolvido 😜 por [Diego Moura dos Santos](https://www.linkedin.com/in/diegomouradossantos/).
