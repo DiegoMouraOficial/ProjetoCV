@@ -1,11 +1,16 @@
-<h1 align="center"> 📚 Projeto Currículo  </h1>
+# 📚 Projeto Currículo
 
-<p align="center"> Atráves desse simples projeto você será capaz de entender os conceitos 
-básico do HTML e CSS.</p>
+</br>
 
-<p align="center">
-    <img src="curriculo.jpg"alt="Projeto Currículo" width="750" height="1000">
-</p>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=critical&style=for-the-badge"/>
+Referência W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
+
+</br>
+
+<div>
+    <img src="curriculo.jpg"alt="Projeto Currículo" width="375" height="500">
+</div>
+
 </br>
 
 ## :stuck_out_tongue_winking_eye: Qual foi o objetivo?
