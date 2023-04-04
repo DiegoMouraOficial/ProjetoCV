@@ -1,6 +1,10 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=critical&style=for-the-badge"/>
 
-<h1 align="center">📚 Projeto Currículo</h1>
+<h1>📚 Projeto Currículo</h1>
+
+<div align="center">
+    <img src="curriculo.jpg"alt="Projeto Currículo" width="375" height="500">
+</div>
 
 <p align="center">Este projeto consiste na criação de um currículo personalizado, utilizando as tecnologias HTML e CSS com a estrutura do HTML 5. A proposta é permitir que o usuário desenvolva seu próprio currículo de maneira personalizada, adequando-o às suas necessidades e aprofundando seus conhecimentos em HTML e CSS.</p>
 
@@ -21,11 +25,6 @@ O projeto também inclui o uso de imagens, links e listas para criar uma página
 O CSS é usado para estilizar a página, e o projeto utiliza os diferentes tipos de estilos do CSS, incluindo estilos externos, internos e inline. A estilização é aplicada a tags, classes e IDs, e inclui propriedades como cor, background, border, margin, padding, box model e box shadow. A tag <div> é usada para criar seções distintas da página, que podem ser estilizadas separadamente.
 </p>
 
-
-
-<div>
-    <img src="curriculo.jpg"alt="Projeto Currículo" width="375" height="500">
-</div>
 
 </br>
 
