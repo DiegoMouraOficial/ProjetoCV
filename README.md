@@ -2,9 +2,24 @@
 
 <h1 align="center">📚 Projeto Currículo</h1>
 
-<div text-align="justify">Este projeto em questão é um currículo criado utilizando HTML e CSS, com a estrutura do HTML 5. A ideia é que o usuário possa criar seu próprio currículo utilizando essas tecnologias e personalizando-o de acordo com suas necessidades.</div>
+<p align="center">Este projeto consiste na criação de um currículo personalizado, utilizando as tecnologias HTML e CSS com a estrutura do HTML 5. A proposta é permitir que o usuário desenvolva seu próprio currículo de maneira personalizada, adequando-o às suas necessidades e aprofundando seus conhecimentos em HTML e CSS.</p>
 
+<h3>HTML5</h3>
+<p align="center">
+O projeto usa as principais tags HTML, como <html>, <head>, <body>, <h1> a <h6>, <p>, <img>, <a>, <ul>, <ol>, entre outras. Essas tags são usadas para definir a estrutura e o conteúdo da página.
 
+Os principais conceitos do HTML que são usados no projeto incluem a estrutura do documento HTML, o uso de tags para definir o conteúdo e a formatação da página, e a importância da semântica do HTML para facilitar a acessibilidade e a indexação pelos mecanismos de busca.
+    
+A indentação é um aspecto importante do código HTML, pois ajuda a manter o código organizado e legível. Os títulos e parágrafos são usados para estruturar o conteúdo da página, enquanto a formatação de texto é usada para enfatizar certos elementos e melhorar a legibilidade.
+    
+O projeto também inclui o uso de imagens, links e listas para criar uma página mais dinâmica e informativa. O arquivo index.html é utilizado como página inicial do currículo.
+</p>
+</br>
+    
+<h3>CSS3</h3>
+<p align="center">
+O CSS é usado para estilizar a página, e o projeto utiliza os diferentes tipos de estilos do CSS, incluindo estilos externos, internos e inline. A estilização é aplicada a tags, classes e IDs, e inclui propriedades como cor, background, border, margin, padding, box model e box shadow. A tag <div> é usada para criar seções distintas da página, que podem ser estilizadas separadamente.
+</p>
 
 
 
@@ -15,24 +30,7 @@
 </br>
 
 ## :stuck_out_tongue_winking_eye: Qual foi o objetivo?
-<p> Treinar as principais tags e conceitos básicos do HTML.</p>
-<ul>
-  <li>Estrutura HTML 5.</li>
-  <li>Principais tags HTML.</li>
-  <li>Principais conceitos HTML.</li>
-  <li>Indentação.</li>
-  <li>Títulos e parágrafos.</li>
-  <li>Formatação de texto.</li>
-  <li>Imagens, Links e Listas.</li>
-  <li>Entendendo index.</li>
-  <li>CSS Externo, Interno e Inline.</li>
-  <li>Estilizando tag, Class e ID.</li>
-  <li>Color e Background.</li>
-  <li>Border e Border Radius.</li>
-  <li>Margin e Padding.</li>
-  <li>Box Model e Box Shadow.</li>
-  <li>Div.</li>
-</ul>
+
 
 
 ## 🤝 Faça sua Contribuição 
