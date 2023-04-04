@@ -44,6 +44,7 @@ Agradeço por sua visita e espero que possamos continuar a evoluir juntos!
 
 > ## Se possível
 <p align="justify">
+    
 - 🐛 Encontre e relate issues para que possamos corrigir eventuais bugs e melhorar a experiência do usuário.</br>
 
 - ⭐️ Se gostou do nosso trabalho, por favor, considere dar uma estrela ao projeto.</br>
