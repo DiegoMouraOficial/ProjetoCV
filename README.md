@@ -7,7 +7,6 @@
 <div align="center">
     <img src="curriculo.jpg"alt="Projeto Currículo" width="375" height="500">
 </div>
-
 </br>
 
 ## :page_facing_up: HTML5
@@ -20,14 +19,12 @@ A indentação é um aspecto importante do código HTML, pois ajuda a manter o c
     
 O projeto também inclui o uso de imagens, links e listas para criar uma página mais dinâmica e informativa. O arquivo index.html é utilizado como página inicial do currículo.
 </p>
-
 </br>    
 
 ## :black_nib: CSS3
 <p>
 O CSS é usado para estilizar a página, e o projeto utiliza os diferentes tipos de estilos do CSS, incluindo estilos externos, internos e inline. A estilização é aplicada a tags, classes e IDs, e inclui propriedades como cor, background, border, margin, padding, box model e box shadow. A tag <div> é usada para criar seções distintas da página, que podem ser estilizadas separadamente.
 </p>
-
 </br>
 
 ## 🤝 Faça sua Contribuição 
@@ -38,6 +35,7 @@ Caso tenha encontrado algo que tenha sido útil para você, ficarei muito feliz 
 
 Agradeço por sua visita e espero que possamos continuar a evoluir juntos!
 </p>
+</br>
 
 > ## Se possível
 <p>
