@@ -23,7 +23,7 @@ O projeto também inclui o uso de imagens, links e listas para criar uma página
 
 ## :black_nib: CSS3
 <p>
-O CSS é usado para estilizar a página, e o projeto utiliza os diferentes tipos de estilos do CSS, incluindo estilos externos, internos e inline. A estilização é aplicada a tags, classes e IDs, e inclui propriedades como cor, background, border, margin, padding, box model e box shadow. A tag <div> é usada para criar seções distintas da página, que podem ser estilizadas separadamente.
+
 </p>
 </br>
 
