@@ -49,7 +49,7 @@ Agradeço por sua visita e espero que possamos continuar a evoluir juntos!
 
 - ⭐️ Se gostou do nosso trabalho, por favor, considere dar uma estrela ao projeto.</br>
 
-- 🤝 Sua contribuição é muito importante para nós e nos ajuda a continuar evoluindo. Agradecemos a sua visita e esperamos contar com a sua ajuda para tornar o projeto ainda melhor!"
+- 🤝 Sua contribuição é muito importante para nós e nos ajuda a continuar evoluindo. Agradecemos a sua visita e esperamos contar com a sua ajuda para tornar o projeto ainda melhor!
 </p>
 </br>
 
