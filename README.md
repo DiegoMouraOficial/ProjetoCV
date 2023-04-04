@@ -1,8 +1,8 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=critical&style=for-the-badge"/>
 
-#📚 Projeto Currículo
+<h1 align="center">📚 Projeto Currículo</h1>
 
-<p>Este projeto em questão é um currículo criado utilizando HTML e CSS, com a estrutura do HTML 5. A ideia é que o usuário possa criar seu próprio currículo utilizando essas tecnologias e personalizando-o de acordo com suas necessidades.</p>
+<p text-align="justify">Este projeto em questão é um currículo criado utilizando HTML e CSS, com a estrutura do HTML 5. A ideia é que o usuário possa criar seu próprio currículo utilizando essas tecnologias e personalizando-o de acordo com suas necessidades.</p>
 
 
 
