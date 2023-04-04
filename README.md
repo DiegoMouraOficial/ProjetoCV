@@ -9,6 +9,7 @@
 </div>
 
 </br>
+
 ## :page_facing_up: HTML5
 <p>
 O projeto usa as principais tags HTML, como html, head, body, h1 a h6, p, img, a, ul, ol, entre outras. Essas tags são usadas para definir a estrutura e o conteúdo da página.
@@ -21,12 +22,14 @@ O projeto também inclui o uso de imagens, links e listas para criar uma página
 </p>
 
 </br>    
+
 ## :black_nib: CSS3
 <p>
 O CSS é usado para estilizar a página, e o projeto utiliza os diferentes tipos de estilos do CSS, incluindo estilos externos, internos e inline. A estilização é aplicada a tags, classes e IDs, e inclui propriedades como cor, background, border, margin, padding, box model e box shadow. A tag <div> é usada para criar seções distintas da página, que podem ser estilizadas separadamente.
 </p>
 
 </br>
+
 ## 🤝 Faça sua Contribuição 
 <p>
 Esse repositório foi criado com o objetivo de estudar e aprimorar os conhecimentos em HTML5 e CSS3. Gostaría de convidá-los (as) a contribuir para o projeto, afinal, juntos podemos criar algo ainda melhor!
